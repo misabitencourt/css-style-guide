@@ -15,14 +15,6 @@
     - [Seletores ID](#seletores-id)
     - [JavaScript hooks](#javascript-hooks)
     - [Border](#border)
-  1. [Sass](#sass)
-    - [Sintaxe](#sintaxe)
-    - [Ordenação](#ordenacao-de-declaracao-de-propriedades)
-    - [Variáveis](#variaveis)
-    - [Mixins](#mixins)
-    - [Extend](#extend)
-    - [Seletores agrupados](#seletores-agrupados)
-  1. [Tradução](#traducao)
 
 ## Terminologia
 
