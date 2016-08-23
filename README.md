@@ -1,6 +1,6 @@
 # Guia de estilo CSS Airbnb fork
 
-*Uma abordagem mais razoável para CSS e Sass*
+*Uma abordagem mais razoável para CSS*
 
 ## Tabela de conteúdo
 
@@ -99,7 +99,6 @@ Finalmente, propriedades são os elementos selecionados de uma regra de declara�
 
 ### Comentários
 
-* Prefira comentários de linha (`//` em Sass) para blocos de comentários.
 * Prefira comentários em uma única linha. Evite comentários no final da linha.
 * Escreva comentários detalhados para códigos que não são auto-documentados:
   - Usos do z-index
